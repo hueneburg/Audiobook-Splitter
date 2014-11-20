@@ -1,0 +1,9 @@
+c:\users\armin.dev\documents\visual studio 2013\Projects\SplittingM4bToMp3\SplittingM4bToMp3\bin\Debug\SplittingM4bToMp3.exe.config
+c:\users\armin.dev\documents\visual studio 2013\Projects\SplittingM4bToMp3\SplittingM4bToMp3\bin\Debug\SplittingM4bToMp3.exe
+c:\users\armin.dev\documents\visual studio 2013\Projects\SplittingM4bToMp3\SplittingM4bToMp3\bin\Debug\SplittingM4bToMp3.pdb
+c:\users\armin.dev\documents\visual studio 2013\Projects\SplittingM4bToMp3\SplittingM4bToMp3\obj\Debug\SplittingM4bToMp3.csprojResolveAssemblyReference.cache
+c:\users\armin.dev\documents\visual studio 2013\Projects\SplittingM4bToMp3\SplittingM4bToMp3\obj\Debug\SplittingM4bToMp3.exe
+c:\users\armin.dev\documents\visual studio 2013\Projects\SplittingM4bToMp3\SplittingM4bToMp3\obj\Debug\SplittingM4bToMp3.pdb
+\\VBOXSVR\images\SplittingM4b\SplittingM4bToMp3.exe.config
+\\VBOXSVR\images\SplittingM4b\SplittingM4bToMp3.exe
+\\VBOXSVR\images\SplittingM4b\SplittingM4bToMp3.pdb
